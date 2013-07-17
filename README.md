@@ -1,6 +1,6 @@
 ##Janna Social Mobile Engine
 
-[Janna-SME] Is a powerful & flexible modular mobile iOS engine for creating public and incorporated social services
+[Janna-SME] Powerful & flexible modular mobile iOS engine for creating public and incorporated social services
 
 #License
 Copyright (c) 2013 Andrew Shmig
