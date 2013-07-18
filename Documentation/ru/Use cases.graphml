@@ -20,17 +20,17 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="431.0" width="692.875" x="-638.875" y="65.5"/>
+              <y:Geometry height="622.75" width="786.0" x="236.625" y="8.5"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="692.875" x="0.0" y="0.0">Ядро</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="786.0" x="0.0" y="0.0">Директория + Файл</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="20" bottomF="19.5" left="411" leftF="410.625" right="31" rightF="30.75" top="348" topF="348.333984375"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="50.0" width="50.0" x="-655.0" y="170.0"/>
+              <y:Geometry height="50.0" width="50.0" x="241.625" y="20.5"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">1</y:NodeLabel>
@@ -50,17 +50,17 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="622.75" width="786.0" x="236.625" y="8.5"/>
+              <y:Geometry height="431.0" width="692.875" x="-638.875" y="65.5"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="786.0" x="0.0" y="0.0">Директория + Файл</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="692.875" x="0.0" y="0.0">Ядро</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="20" bottomF="19.5" left="411" leftF="410.625" right="31" rightF="30.75" top="348" topF="348.333984375"/>
             </y:GroupNode>
             <y:GroupNode>
-              <y:Geometry height="50.0" width="50.0" x="241.625" y="20.5"/>
+              <y:Geometry height="50.0" width="50.0" x="-655.0" y="170.0"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="50.0" x="0.0" y="0.0">1</y:NodeLabel>
@@ -171,7 +171,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="50.0" width="110.0" x="-157.5" y="177.5"/>
+          <y:Geometry height="50.0" width="110.0" x="-157.5" y="275.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" modelName="custom" textColor="#000000" visible="true" width="89.03955078125" x="10.480224609375" y="15.3447265625">Создать круг<y:LabelModel>
@@ -189,7 +189,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="50.0" width="110.0" x="-157.5" y="117.5"/>
+          <y:Geometry height="50.0" width="110.0" x="-157.5" y="215.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" modelName="custom" textColor="#000000" visible="true" width="98.8466796875" x="5.57666015625" y="15.3447265625">Обновить круг<y:LabelModel>
@@ -207,7 +207,7 @@
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="50.0" width="110.0" x="-157.5" y="237.5"/>
+          <y:Geometry height="50.0" width="110.0" x="-157.5" y="335.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.310546875" modelName="custom" textColor="#000000" visible="true" width="89.9345703125" x="10.03271484375" y="15.3447265625">Удалить круг<y:LabelModel>
@@ -222,44 +222,6 @@
       </data>
     </node>
     <node id="n10">
-      <data key="d4"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="63.0" width="202.0" x="-203.5" y="297.5"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.62109375" modelName="custom" textColor="#000000" visible="true" width="159.53662109375" x="21.231689453125" y="14.189453125">Добавить пользователя 
-в круг<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="ellipse"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n11">
-      <data key="d4"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="70.0" width="165.75" x="-185.375" y="370.5"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="34.62109375" modelName="custom" textColor="#000000" visible="true" width="151.77978515625" x="6.985107421875" y="17.689453125">Удалить пользователя 
-из круга<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="ellipse"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n12">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -278,7 +240,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n13">
+    <node id="n11">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -296,7 +258,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n12">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -314,7 +276,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n15">
+    <node id="n13">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -332,7 +294,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n16">
+    <node id="n14">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -350,7 +312,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n17">
+    <node id="n15">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -369,7 +331,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n18">
+    <node id="n16">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -387,7 +349,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n19">
+    <node id="n17">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -406,7 +368,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n20">
+    <node id="n18">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -425,7 +387,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n21">
+    <node id="n19">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -444,7 +406,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n22">
+    <node id="n20">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -462,7 +424,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n23">
+    <node id="n21">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -480,7 +442,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n24">
+    <node id="n22">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -499,7 +461,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n25">
+    <node id="n23">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -518,7 +480,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n26">
+    <node id="n24">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -537,7 +499,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n27">
+    <node id="n25">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -556,7 +518,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n28">
+    <node id="n26">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -574,7 +536,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n29">
+    <node id="n27">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -592,7 +554,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n30">
+    <node id="n28">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -611,7 +573,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n31">
+    <node id="n29">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -629,7 +591,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n32">
+    <node id="n30">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -647,7 +609,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n33">
+    <node id="n31">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -666,7 +628,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n34">
+    <node id="n32">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -684,7 +646,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n35">
+    <node id="n33">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -702,7 +664,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n36">
+    <node id="n34">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -721,7 +683,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n37">
+    <node id="n35">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -739,7 +701,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n38">
+    <node id="n36">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -757,7 +719,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n39">
+    <node id="n37">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -776,7 +738,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n40">
+    <node id="n38">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -794,7 +756,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n41">
+    <node id="n39">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -812,7 +774,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n42">
+    <node id="n40">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -831,7 +793,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n43">
+    <node id="n41">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -849,7 +811,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n44">
+    <node id="n42">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -867,7 +829,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n45">
+    <node id="n43">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -886,7 +848,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n46">
+    <node id="n44">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -904,7 +866,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n47">
+    <node id="n45">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -922,7 +884,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n48">
+    <node id="n46">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -940,7 +902,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n49">
+    <node id="n47">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -958,7 +920,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n50">
+    <node id="n48">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -976,7 +938,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n51">
+    <node id="n49">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -994,7 +956,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n52">
+    <node id="n50">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -1012,7 +974,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n53">
+    <node id="n51">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
